@@ -1,0 +1,22 @@
+<mod name="Consistent Turkish" author="Local Turkish Localization" version="0.2.1" priority="1000">
+  <Localization directory="loc" default_language="english" priority="2">
+    <group language="english">
+      <loc file="atmospheric_text.lua"/>
+      <loc file="blackmarket.lua"/>
+      <loc file="challenges.lua"/>
+      <loc file="debug.lua"/>
+      <loc file="heist.lua"/>
+      <loc file="hud.lua"/>
+      <loc file="ingame_achievements.lua"/>
+      <loc file="menu.lua"/>
+      <loc file="savefile.lua"/>
+      <loc file="subtitles.lua"/>
+      <loc file="system_text.lua"/>
+      <loc file="systemmenu.lua"/>
+      <loc file="vr.lua"/>
+    </group>
+  </Localization>
+  <Classes directory="lua" priority="1">
+    <class file="runtime.lua"/>
+  </Classes>
+</mod>
