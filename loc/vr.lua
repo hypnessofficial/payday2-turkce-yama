@@ -1,4 +1,3 @@
--- Generated localization data.
 return {
 ["bm_loadout_rifle_american"] = "Assault US",
 ["bm_loadout_rifle_russian"] = "Assault RUS",

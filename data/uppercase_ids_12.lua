@@ -1,4 +1,3 @@
--- Generated localization data.
 return {
 ["sm_21_name"] = "İNDİRME TANGOSU",
 ["sm_21_obj"] = "HOTLINE MIAMI İŞİNİ ÇOK ZOR VEYA ÜZERİ ZORLUKTA TAMAMLA.$NL;BU GÖREV İÇİN LOBİDEN SOYGUNUN SONUNA KADAR OYNAMALISIN.",

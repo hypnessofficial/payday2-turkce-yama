@@ -1,4 +1,3 @@
--- Generated localization data.
 return {
 ["İyi iş! Yedinci dalga püskürtüldü!"] = "İYİ İŞ! YEDİNCİ DALGA PÜSKÜRTÜLDÜ!",
 ["İyi iş! Çakmak taşı gibi sağlamsınız."] = "İYİ İŞ! ÇAKMAK TAŞI GİBİ SAĞLAMSINIZ.",

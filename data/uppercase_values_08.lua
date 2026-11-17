@@ -1,4 +1,3 @@
--- Generated localization data.
 return {
 ["Sunucu odası güvenlik kilidinde. Şu an erişemeyiz!"] = "SUNUCU ODASI GÜVENLİK KİLİDİNDE. ŞU AN ERİŞEMEYİZ!",
 ["Sunucu odası kilitlendi. Artık oraya giremeyiz!"] = "SUNUCU ODASI KİLİTLENDİ. ARTIK ORAYA GİREMEYİZ!",

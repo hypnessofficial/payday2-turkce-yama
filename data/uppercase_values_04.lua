@@ -1,4 +1,3 @@
--- Generated localization data.
 return {
 ["First World Bank, yardımcı olabilir miyim? Evet Bay Trump. Hizmetçilerinize 10 dolarlık sadakat ikramiyesi efendim. Eminim çok mutlu olurlar efendim."] = "FIRST WORLD BANK, YARDIMCI OLABİLİR MİYİM? EVET BAY TRUMP. HİZMETÇİLERİNİZE 10 DOLARLIK SADAKAT İKRAMİYESİ EFENDİM. EMİNİM ÇOK MUTLU OLURLAR EFENDİM.",
 ["First World Bank, yardımcı olabilir miyim? Evet efendim, her türlü finansal hizmet sunuyoruz. Hayır efendim, öyle 'fena' değil, hele öyle bir hizmet hiç değil! İyi günler!"] = "FIRST WORLD BANK, YARDIMCI OLABİLİR MİYİM? EVET EFENDİM, HER TÜRLÜ FİNANSAL HİZMET SUNUYORUZ. HAYIR EFENDİM, ÖYLE 'FENA' DEĞİL, HELE ÖYLE BİR HİZMET HİÇ DEĞİL! İYİ GÜNLER!",

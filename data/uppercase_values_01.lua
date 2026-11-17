@@ -1,4 +1,3 @@
--- Generated localization data.
 return {
 [" \"Hey, tıpkı o zombi filmindeki gibi olacak... bütün o katliam ve kan olmadan tabii.\""] = " \"HEY, TIPKI O ZOMBİ FİLMİNDEKİ GİBİ OLACAK... BÜTÜN O KATLİAM VE KAN OLMADAN TABİİ.\"",
 [" Bay Wang sayesinde hepinizi keyifli bir yolculuk bekliyor."] = " BAY WANG SAYESİNDE HEPİNİZİ KEYİFLİ BİR YOLCULUK BEKLİYOR.",

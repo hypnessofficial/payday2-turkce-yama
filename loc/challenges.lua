@@ -1,4 +1,3 @@
--- Generated localization data.
 return {
 ["ch_aint_afraid"] = "Baskın sırasında Saldırı ağacında bir seviye kazan.",
 ["ch_aint_afraid_hl"] = "Artık Korkmuyorum",

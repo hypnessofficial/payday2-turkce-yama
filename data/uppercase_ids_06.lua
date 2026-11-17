@@ -1,4 +1,3 @@
--- Generated localization data.
 return {
 ["loc_brb_17_01"] = "O KAPIYI GEÇMELİSİNİZ.",
 ["loc_brb_17_02"] = "O KAPIDA FAZLA OYALANMAYIN, DOSTLAR.",

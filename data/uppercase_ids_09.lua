@@ -1,4 +1,3 @@
--- Generated localization data.
 return {
 ["mission_boat_destroy_security_equipment"] = "GÜVENLİK ODASINDAKİ TÜM GÜVENLİK EKİPMANLARINI YOK ET.",
 ["mission_boat_destroy_security_equipment_hl"] = "EKİPMANI YOK ET.",

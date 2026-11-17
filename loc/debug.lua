@@ -1,4 +1,3 @@
--- Generated localization data.
 return {
 ["__consistent_tr_55d816204f947ace"] = "Kasa Girdisi",
 ["__consistent_tr_596b0712baf162c2"] = "USB Bellek gerekiyor",

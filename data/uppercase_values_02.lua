@@ -1,4 +1,3 @@
--- Generated localization data.
 return {
 ["Bas Konuş"] = "BAS KONUŞ",
 ["Basarak Aç/Kapat"] = "BASARAK AÇ/KAPAT",

@@ -1,4 +1,3 @@
--- Generated localization data.
 return {
 ["hud_heist_hox1_4"] = "DEVAM EDEBİLMESİ İÇİN ZIRHLI KAMYONUN YOLUNU AÇ.",
 ["hud_heist_hox1_4_hl"] = "KAMYONUN YOLUNU TEMİZLE",

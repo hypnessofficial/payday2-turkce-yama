@@ -1,4 +1,3 @@
--- Generated localization data.
 return {
 ["Hey, işte orada. Merdivenlerin oralarda gibi."] = "HEY, İŞTE ORADA. MERDİVENLERİN ORALARDA GİBİ.",
 ["Hey, işte orada. Rıhtımın yanında gibi."] = "HEY, İŞTE ORADA. RIHTIMIN YANINDA GİBİ.",

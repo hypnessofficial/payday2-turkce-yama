@@ -1,4 +1,3 @@
--- Generated localization data.
 return {
 ["__consistent_tr_06fbed41c39c7470"] = "Parolaları Öğren",
 ["__consistent_tr_164a55d4d67c7f81"] = "Kaç!",

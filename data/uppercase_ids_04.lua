@@ -1,4 +1,3 @@
--- Generated localization data.
 return {
 ["dialog_mp_disconnected_internet"] = "BAĞLANTIN KESİLDİ",
 ["dialog_mp_disconnected_internet_NX64"] = "NİNTENDO ACCOUNT BAĞLANTIN KESİLDİ. BU OYUNUN ÇEVRİM İÇİ BÖLÜMLERİNE ERİŞMEK İÇİN BAĞLI OLMALISIN.",

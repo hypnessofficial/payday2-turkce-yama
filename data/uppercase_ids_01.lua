@@ -1,4 +1,3 @@
--- Generated localization data.
 return {
 ["DLC_RVD"] = "TANKLARDAKİ SIVININ BİTMESİNE FAZLA KALMAMIŞ OLMALI. BILE YAKINDA BİR TESLİMATLA GELECEK.",
 ["NX64_menu_crimenet_local"] = "CRIME.NET YEREL OYUN",

@@ -1,4 +1,3 @@
--- Generated localization data.
 return {
 ["pln_esc_05_to_departure"] = "ACELE EDİN MİLLET! KAÇIŞ ARACI BEŞ DAKİKA SONRA GİDİYOR.",
 ["pln_esc_06_to_arrival"] = "KAÇIŞ ARACI ALTI DAKİKAYA ORADA OLACAK.",

@@ -1,4 +1,3 @@
--- Generated localization data.
 return {
 ["0019c109d2bfd6ee"] = "__consistent_tr_0019c109d2bfd6ee",
 ["001b8cf4d02efbb9"] = "__consistent_tr_001b8cf4d02efbb9",

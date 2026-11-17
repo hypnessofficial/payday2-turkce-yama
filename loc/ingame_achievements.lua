@@ -1,4 +1,3 @@
--- Generated localization data.
 return {
 ["__consistent_tr_01cf49137221e99c"] = "Hostile Takeover soygununu Çok Zor veya daha yüksek zorlukta tamamla.",
 ["__consistent_tr_0351209427c335ef"] = "Hostile Takeover soygununu Death Sentence zorlukta tamamla.",

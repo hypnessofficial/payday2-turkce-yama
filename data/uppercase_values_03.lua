@@ -1,4 +1,3 @@
--- Generated localization data.
 return {
 ["Bütün hastane cehenneme gitsin ama ikinizden birinde çakmak var mı?"] = "BÜTÜN HASTANE CEHENNEME GİTSİN AMA İKİNİZDEN BİRİNDE ÇAKMAK VAR MI?",
 ["Bütün ipuçları tamam olmalı. Artık nasıl açılacağını çözebilirsiniz."] = "BÜTÜN İPUÇLARI TAMAM OLMALI. ARTIK NASIL AÇILACAĞINI ÇÖZEBİLİRSİNİZ.",

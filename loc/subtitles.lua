@@ -1,4 +1,3 @@
--- Generated localization data.
 return {
 ["DLC_RVD"] = "Tanklardaki sıvının bitmesine fazla kalmamış olmalı. Bile yakında bir teslimatla gelecek.",
 ["__consistent_tr_00a182f9808d77c6"] = "Bu parti pek doğru olmamış gibi. Başka bir numuneyi test edin.",

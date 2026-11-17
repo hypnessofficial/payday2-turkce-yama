@@ -1,4 +1,3 @@
--- Generated localization data.
 return {
 ["Vagonlara zorla gir ve kalıpları güvenceye al"] = "VAGONLARA ZORLA GİR VE KALIPLARI GÜVENCEYE AL",
 ["Vagonlarda merdiven olmalıydı. Arayın."] = "VAGONLARDA MERDİVEN OLMALIYDI. ARAYIN.",

@@ -1,4 +1,3 @@
--- Generated localization data.
 return {
 ["NX64_menu_crimenet_local"] = "Crime.net Yerel Oyun",
 ["NX64_menu_crimenet_local_help"] = "Yerel oyun için Crime.net’e gir.",

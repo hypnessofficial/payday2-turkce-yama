@@ -1,4 +1,3 @@
--- Generated localization data.
 return {
 ["loc_sah_94_02"] = "İŞTE, KASA DAİRESİ BU.",
 ["loc_sah_94_03"] = "TAM ORADA, GÖRÜNTÜDE... KASA DAİRESİ BU.",

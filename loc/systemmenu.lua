@@ -1,4 +1,3 @@
--- Generated localization data.
 return {
 ["__consistent_tr_0927a8a8111da02e"] = "Asla siyasete bulaşma.$NL;$NL;The Payday Gang, Washington’ı temellerinden sarstı. İki ajanın dinlenen konuşması, hesaplaşmanın kapıda olduğuna işaret ediyor. $NL;$NL;Lost Tapes menüsüne git ve bu gizli kaydı çal!",
 ["__consistent_tr_0ff3d119dad0d537"] = "Telemetri tamamen anonimdir. İnsanların oyunu nasıl oynadığını, hangi soygunların en popüler olduğunu, hangi hedeflerin fazla zor veya kolay olduğunu ve benzeri bilgileri gösterir. Bu da oyunu daha iyi yapmamıza yardım eder.$NL;$NL;Telemetri isteğe bağlıdır. Gelişmiş ayarlardan istediğin zaman kapatabilirsin.",

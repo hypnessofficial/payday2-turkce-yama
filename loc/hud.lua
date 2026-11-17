@@ -1,4 +1,3 @@
--- Generated localization data.
 return {
 ["__consistent_tr_0068112a8f8acff0"] = "Kesici parçaları gerekiyor",
 ["__consistent_tr_00b2cdea5ecd4380"] = "Kilidi açık bir bilgisayar bul",

@@ -1,4 +1,3 @@
--- Generated localization data.
 return {
 ["__consistent_tr_04ccb95b8627fab9"] = "Kaydediliyor...",
 ["__consistent_tr_28908e0ab5750b8e"] = "Kaldırılıyor...",

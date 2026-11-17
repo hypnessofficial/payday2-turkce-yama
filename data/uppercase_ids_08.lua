@@ -1,4 +1,3 @@
--- Generated localization data.
 return {
 ["menu_cs_rooms_help_hover_no_upgrade"] = "BU ODAYI DAHA FAZLA GELİŞTİREMEZSİN",
 ["menu_cs_rooms_help_hover_tier"] = "ODAYI $tier;. KADEMEYE GELİŞTİR",

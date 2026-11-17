@@ -1,4 +1,3 @@
--- Generated localization data.
 return {
 ["__consistent_tr_001b8cf4d02efbb9"] = " ",
 ["__consistent_tr_00c0919562b12a3e"] = "Cowhide Black",

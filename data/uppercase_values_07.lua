@@ -1,4 +1,3 @@
--- Generated localization data.
 return {
 ["Orada olduğunuzdan haberleri yok. Şimdi çıkın oradan."] = "ORADA OLDUĞUNUZDAN HABERLERİ YOK. ŞİMDİ ÇIKIN ORADAN.",
 ["Orada olduğunuzu bilen yok sanırım. Şimdi haberleşme frekansını alın."] = "ORADA OLDUĞUNUZU BİLEN YOK SANIRIM. ŞİMDİ HABERLEŞME FREKANSINI ALIN.",

@@ -1,4 +1,3 @@
--- Generated localization data.
 return {
 ["pln_nmh_88_02"] = "AYRILMADAN ÖNCE SOĞUTUCUYA BİR NUMUNE DAHA.",
 ["pln_nmh_88_03"] = "ANLAŞMAMIZ İKİ NUMUNE İÇİNDİ, ORAYA BİR TANE DAHA KOYUN!",

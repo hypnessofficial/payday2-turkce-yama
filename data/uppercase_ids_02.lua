@@ -1,4 +1,3 @@
--- Generated localization data.
 return {
 ["achievement_ovk_8_additional"] = "BU BAŞARIM İÇİN SOYGUNU LOBİDEN BAŞLAYARAK SONUNA KADAR OYNAMALISIN.",
 ["achievement_ovk_8_desc"] = "BIG OIL İŞİNİ OVERKILL VEYA ÜZERİ ZORLUKTA EN AZ BİR BAŞKA OYUNCUYLA TAMAMLA. HERKES TAKIM ELBİSE VE AKIMBO BERNETTI 9 TABANCALARINI KULLANMALI.",

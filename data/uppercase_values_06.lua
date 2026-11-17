@@ -1,4 +1,3 @@
--- Generated localization data.
 return {
 ["Locke & Load Event sitesinin 4. gününde bulunan bilmeceyi çöz."] = "LOCKE & LOAD EVENT SİTESİNİN 4. GÜNÜNDE BULUNAN BİLMECEYİ ÇÖZ.",
 ["Locke & Load Event sitesinin 6. gününde bulunan bilmeceyi çöz."] = "LOCKE & LOAD EVENT SİTESİNİN 6. GÜNÜNDE BULUNAN BİLMECEYİ ÇÖZ.",

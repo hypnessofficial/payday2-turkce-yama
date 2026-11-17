@@ -1,4 +1,3 @@
--- Generated localization data.
 return {
 ["__consistent_tr_74b1d5b932682402"] = "",
 ["__consistent_tr_ffb18b93e1789002"] = "Do not translate.",
