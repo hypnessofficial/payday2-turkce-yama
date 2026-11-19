@@ -3323,7 +3323,7 @@ return {
 ["Açmak için ücretsiz Sweet Tooth DLC’sini indir!"] = "AÇMAK İÇİN ÜCRETSİZ SWEET TOOTH DLC’SİNİ İNDİR!",
 ["Açmak için İhtiyarlara Soygun Yok başarımını tamamla!"] = "AÇMAK İÇİN İHTİYARLARA SOYGUN YOK BAŞARIMINI TAMAMLA!",
 ["Açmak için Şok ve Dehşet başarımını tamamla!"] = "AÇMAK İÇİN ŞOK VE DEHŞET BAŞARIMINI TAMAMLA!",
-["Açmak İçin Gereken Puan"] = "AÇMAK İÇİN GEREKEN PUAN",
+["Açmak İçin Gereken Puan"] = "GEREKEN PUAN",
 ["Açı 1"] = "AÇI 1",
 ["Açı 2"] = "AÇI 2",
 ["Açık"] = "AÇIK",
