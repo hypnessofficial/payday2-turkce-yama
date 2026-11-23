@@ -21,6 +21,14 @@ Yamanın çalışabilmesi için aşağıdaki mod altyapılarının kurulu olmas�
 
 **Önemli:** Yama klasörünün başka bir klasörün içinde kalmadığından ve doğrudan `mod_overrides` dizinine yerleştirildiğinden emin olun.
 
+## Güncelleme
+
+BeardLib, GitHub deposunun `main` dalını ana menüde kontrol eder. Yeni bir commit yayımlandığında BeardLib menüsündeki güncelleme seçeneğiyle son dosyaları indirip kurabilirsiniz. GitHub Release oluşturulması gerekmez. Güncellemeden sonra oyunu yeniden başlatın.
+
+GitHub ZIP'inin ana klasörü `payday2-turkce-yama-main` olarak gelir. İlk güncellemede eski kurulum klasörü kaldırılıp bu klasör kullanılır; sonraki güncellemeler aynı klasöre yapılır. Yamanın iki kopyasını aynı anda kurmayın.
+
+`version.txt` güncelleme takibi için BeardLib tarafından oluşturulur.
+
 ## Türkçe Font Desteği
 
 - Menü, arayüz ve gölgeli yazılarda Türkçe karakterleri içeren DIN Pro Cond fontları kullanılır.
