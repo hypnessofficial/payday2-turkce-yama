@@ -21,6 +21,13 @@ Yamanın çalışabilmesi için aşağıdaki mod altyapılarının kurulu olmas�
 
 **Önemli:** Yama klasörünün başka bir klasörün içinde kalmadığından ve doğrudan `mod_overrides` dizinine yerleştirildiğinden emin olun.
 
+## Türkçe Font Desteği
+
+- Menü, arayüz ve gölgeli yazılarda Türkçe karakterleri içeren DIN Pro Cond fontları kullanılır.
+- Ç, Ğ, İ, Ö, Ş, Ü ve küçük harf karşılıkları aynı fonttan çizilir.
+- Oyun simgeleri korunur; Türkçe büyük harf dönüşümü de desteklenir.
+- Fontların yüklenmesi için kurulum veya güncellemeden sonra oyunu yeniden başlatın.
+
 ## Bilgilendirme
 
 - Bu proje resmi bir PAYDAY 2 Türkçe çevirisi değildir.

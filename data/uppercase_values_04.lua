@@ -1,4 +1,5 @@
 return {
+["First World Bank, vergi mükelleflerinin parasıyla yüklü bir kurtarma paketi alan o kan emicilerden biriydi. O zamandan beri sağlam kâr ediyor. Bunu halk için yapalım."] = "FIRST WORLD BANK, VERGİ MÜKELLEFLERİNİN PARASIYLA YÜKLÜ BİR KURTARMA PAKETİ ALAN O KAN EMİCİLERDEN BİRİYDİ. O ZAMANDAN BERİ SAĞLAM KÂR EDİYOR. BUNU HALK İÇİN YAPALIM.",
 ["First World Bank, yardımcı olabilir miyim? Evet Bay Trump. Hizmetçilerinize 10 dolarlık sadakat ikramiyesi efendim. Eminim çok mutlu olurlar efendim."] = "FIRST WORLD BANK, YARDIMCI OLABİLİR MİYİM? EVET BAY TRUMP. HİZMETÇİLERİNİZE 10 DOLARLIK SADAKAT İKRAMİYESİ EFENDİM. EMİNİM ÇOK MUTLU OLURLAR EFENDİM.",
 ["First World Bank, yardımcı olabilir miyim? Evet efendim, her türlü finansal hizmet sunuyoruz. Hayır efendim, öyle 'fena' değil, hele öyle bir hizmet hiç değil! İyi günler!"] = "FIRST WORLD BANK, YARDIMCI OLABİLİR MİYİM? EVET EFENDİM, HER TÜRLÜ FİNANSAL HİZMET SUNUYORUZ. HAYIR EFENDİM, ÖYLE 'FENA' DEĞİL, HELE ÖYLE BİR HİZMET HİÇ DEĞİL! İYİ GÜNLER!",
 ["First World Bank. Elbette hanımefendi, her miktarda altın, mücevher, nakit veya ruh kabul ediyoruz!"] = "FIRST WORLD BANK. ELBETTE HANIMEFENDİ, HER MİKTARDA ALTIN, MÜCEVHER, NAKİT VEYA RUH KABUL EDİYORUZ!",
@@ -682,6 +683,7 @@ return {
 ["Georgetown. Dosyaları, duvardaki haritaları, yerini kesin bulacak her şeyi arayın. Unutmayın, Georgetown."] = "GEORGETOWN. DOSYALARI, DUVARDAKİ HARİTALARI, YERİNİ KESİN BULACAK HER ŞEYİ ARAYIN. UNUTMAYIN, GEORGETOWN.",
 ["Gereken Anahtar Kartı bu. Trene dönüp kapıyı açın."] = "GEREKEN ANAHTAR KARTI BU. TRENE DÖNÜP KAPIYI AÇIN.",
 ["Gereken Nitelikler"] = "GEREKEN NİTELİKLER",
+["Gereken Puan"] = "GEREKEN PUAN",
 ["Gereken aletler bir minibüse bırakıldı. Bulup asansör boşluğunu kanırtarak açın."] = "GEREKEN ALETLER BİR MİNİBÜSE BIRAKILDI. BULUP ASANSÖR BOŞLUĞUNU KANIRTARAK AÇIN.",
 ["Gereken bütün C4 bu."] = "GEREKEN BÜTÜN C4 BU.",
 ["Gereken bütün bilgiler elimizde. Sunucuyu al, gidelim!"] = "GEREKEN BÜTÜN BİLGİLER ELİMİZDE. SUNUCUYU AL, GİDELİM!",
@@ -3997,6 +3999,4 @@ return {
 ["Hey, hey, HEY. Bunu geçiştirme. Bain'le Vlad'ın uzun bir geçmişi var. Bu boku önemsiyorum."] = "HEY, HEY, HEY. BUNU GEÇİŞTİRME. BAIN'LE VLAD'IN UZUN BİR GEÇMİŞİ VAR. BU BOKU ÖNEMSİYORUM.",
 ["Hey, iki dakika, araç için iki dakika daha var! Çok kalmadı!"] = "HEY, İKİ DAKİKA, ARAÇ İÇİN İKİ DAKİKA DAHA VAR! ÇOK KALMADI!",
 ["Hey, işte orada. Araba yolunun yanında gibi."] = "HEY, İŞTE ORADA. ARABA YOLUNUN YANINDA GİBİ.",
-["Hey, işte orada. Bahçe alanında gibi."] = "HEY, İŞTE ORADA. BAHÇE ALANINDA GİBİ.",
-["Hey, işte orada. Havuzların yanında gibi."] = "HEY, İŞTE ORADA. HAVUZLARIN YANINDA GİBİ.",
 }

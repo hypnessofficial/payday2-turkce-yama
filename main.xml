@@ -1,4 +1,4 @@
-<mod name="Consistent Turkish" author="Local Turkish Localization" version="0.2.1" priority="1000">
+<mod name="Consistent Turkish" author="Local Turkish Localization" version="0.2.2" priority="1000">
   <Localization directory="loc" default_language="english" priority="2">
     <group language="english">
       <loc file="atmospheric_text.lua"/>

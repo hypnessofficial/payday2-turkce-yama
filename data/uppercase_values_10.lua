@@ -1,4 +1,7 @@
 return {
+["İyi iş! Payday Piggy hizmetleriniz için teşekkür ediyor."] = "İYİ İŞ! PAYDAY PİGGY HİZMETLERİNİZ İÇİN TEŞEKKÜR EDİYOR.",
+["İyi iş! Pişirmeye dönün. Dalgalar arasındaki zamanı daha fazla malzeme bulmak için kullanın."] = "İYİ İŞ! PİŞİRMEYE DÖNÜN. DALGALAR ARASINDAKİ ZAMANI DAHA FAZLA MALZEME BULMAK İÇİN KULLANIN.",
+["İyi iş! Prototipi otoparktaki minibüsümüze getirin. Bunu hak ettik be."] = "İYİ İŞ! PROTOTİPİ OTOPARKTAKİ MİNİBÜSÜMÜZE GETİRİN. BUNU HAK ETTİK BE.",
 ["İyi iş! Yedinci dalga püskürtüldü!"] = "İYİ İŞ! YEDİNCİ DALGA PÜSKÜRTÜLDÜ!",
 ["İyi iş! Çakmak taşı gibi sağlamsınız."] = "İYİ İŞ! ÇAKMAK TAŞI GİBİ SAĞLAMSINIZ.",
 ["İyi iş! Üçüncü dalga püskürtüldü!"] = "İYİ İŞ! ÜÇÜNCÜ DALGA PÜSKÜRTÜLDÜ!",
@@ -910,7 +913,6 @@ return {
 ["Şarjör"] = "ŞARJÖR",
 ["Şarjör Değiştir"] = "ŞARJÖR DEĞİŞTİR",
 ["Şarjör Değiştiriliyor"] = "ŞARJÖR DEĞİŞTİRİLİYOR",
-["Şarjör Değiştirme Süresi"] = "ŞARJÖR DEĞİŞTİRME SÜRESİ",
 ["Şarjörler"] = "ŞARJÖRLER",
 ["Şarjörü dolu İkincil Silahına geçmek, Birincil Silahının şarjörünü değiştirmekten çoğunlukla daha hızlıdır."] = "ŞARJÖRÜ DOLU İKİNCİL SİLAHINA GEÇMEK, BİRİNCİL SİLAHININ ŞARJÖRÜNÜ DEĞİŞTİRMEKTEN ÇOĞUNLUKLA DAHA HIZLIDIR.",
 ["Şartröz"] = "ŞARTRÖZ",

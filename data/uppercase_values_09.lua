@@ -1,4 +1,7 @@
 return {
+["Vagonlar için bir güvenlik anahtar kartı. İşleri hızlandırmalı."] = "VAGONLAR İÇİN BİR GÜVENLİK ANAHTAR KARTI. İŞLERİ HIZLANDIRMALI.",
+["Vagonlara girip o kalıpları alın!"] = "VAGONLARA GİRİP O KALIPLARI ALIN!",
+["Vagonlara girmeden önce trene bağlanan hareket sensörlerini halletmeliyiz. Gemma'nın bağlantısına göre tren sahasındaki bir kontrol konsoluna bağlılar."] = "VAGONLARA GİRMEDEN ÖNCE TRENE BAĞLANAN HAREKET SENSÖRLERİNİ HALLETMELİYİZ. GEMMA'NIN BAĞLANTISINA GÖRE TREN SAHASINDAKİ BİR KONTROL KONSOLUNA BAĞLILAR.",
 ["Vagonlara zorla gir ve kalıpları güvenceye al"] = "VAGONLARA ZORLA GİR VE KALIPLARI GÜVENCEYE AL",
 ["Vagonlarda merdiven olmalıydı. Arayın."] = "VAGONLARDA MERDİVEN OLMALIYDI. ARAYIN.",
 ["Vagonlarda mutlaka ganimet vardır. Arayın. Bulabildiğiniz C4'leri de alın."] = "VAGONLARDA MUTLAKA GANİMET VARDIR. ARAYIN. BULABİLDİĞİNİZ C4'LERİ DE ALIN.",
@@ -3996,7 +3999,4 @@ return {
 ["İyi iş! O kalıpları kaçış için işaretlediğimiz trene taşıyın."] = "İYİ İŞ! O KALIPLARI KAÇIŞ İÇİN İŞARETLEDİĞİMİZ TRENE TAŞIYIN.",
 ["İyi iş! Onuncu dalga püskürtüldü!"] = "İYİ İŞ! ONUNCU DALGA PÜSKÜRTÜLDÜ!",
 ["İyi iş! Payday Piggy hizmetiniz için teşekkür eder."] = "İYİ İŞ! PAYDAY PİGGY HİZMETİNİZ İÇİN TEŞEKKÜR EDER.",
-["İyi iş! Payday Piggy hizmetleriniz için teşekkür ediyor."] = "İYİ İŞ! PAYDAY PİGGY HİZMETLERİNİZ İÇİN TEŞEKKÜR EDİYOR.",
-["İyi iş! Pişirmeye dönün. Dalgalar arasındaki zamanı daha fazla malzeme bulmak için kullanın."] = "İYİ İŞ! PİŞİRMEYE DÖNÜN. DALGALAR ARASINDAKİ ZAMANI DAHA FAZLA MALZEME BULMAK İÇİN KULLANIN.",
-["İyi iş! Prototipi otoparktaki minibüsümüze getirin. Bunu hak ettik be."] = "İYİ İŞ! PROTOTİPİ OTOPARKTAKİ MİNİBÜSÜMÜZE GETİRİN. BUNU HAK ETTİK BE.",
 }

@@ -1,4 +1,7 @@
 return {
+["pln_esc_04_to_arrival"] = "DÖRT DAKİKA KALDI MİLLET.",
+["pln_esc_04_to_departure"] = "HIZLANIN! KAÇIŞ ARACI DÖRT DAKİKA SONRA GİDİYOR.",
+["pln_esc_05_to_arrival"] = "ARACINIZ YAKLAŞIK BEŞ DAKİKAYA ORADA.",
 ["pln_esc_05_to_departure"] = "ACELE EDİN MİLLET! KAÇIŞ ARACI BEŞ DAKİKA SONRA GİDİYOR.",
 ["pln_esc_06_to_arrival"] = "KAÇIŞ ARACI ALTI DAKİKAYA ORADA OLACAK.",
 ["pln_esc_06_to_departure"] = "KAÇIŞ ARACI ALTI DAKİKA SONRA GİDİYOR.",
@@ -3996,7 +3999,4 @@ return {
 ["pln_nmh_85_02"] = "TAMAM, GÜZEL. ŞİMDİ... BİR SANİYE... MİLLET... HAVA DESTEĞİ GÖNDERMEKTEN BAHSEDİYORLAR! ACELE ETMELİSİNİZ...!",
 ["pln_nmh_86_01"] = "BİR BAĞLANTIMA BİZİM İÇİN ASANSÖRE SOĞUTUCU SAKLATTIM. ŞİŞELERİ İÇİNE BIRAKIN!",
 ["pln_nmh_87_01"] = "SOĞUTUCUYA İKİ TÜP KOYDUĞUMUZ ANDA KAÇMAYA HAZIRSINIZ.",
-["pln_nmh_87_02"] = "ÇIKABİLMEK İÇİN SOĞUTUCUYA İKİ ŞİŞE KOYUN.",
-["pln_nmh_87_03"] = "TÜPLERİ SOĞUTUCUYA KOYUN MİLLET. İKİSİNİ DE. SONRA DEFOLUP GİDİN.",
-["pln_nmh_88_01"] = "O SOĞUTUCUYA DAHA FAZLA KAN KOYMANIZ LAZIM MİLLET.",
 }

@@ -1,5 +1,4 @@
 return {
-["dialog_mp_disconnected_internet"] = "BAĞLANTIN KESİLDİ",
 ["dialog_mp_disconnected_internet_NX64"] = "NİNTENDO ACCOUNT BAĞLANTIN KESİLDİ. BU OYUNUN ÇEVRİM İÇİ BÖLÜMLERİNE ERİŞMEK İÇİN BAĞLI OLMALISIN.",
 ["dialog_mp_disconnected_internet_PS3"] = "\"PLAYSTATİON NETWORK\" BAĞLANTIN KESİLDİ. BU OYUNUN ÇEVRİM İÇİ BÖLÜMLERİNE ERİŞMEK İÇİN BAĞLI OLMALISIN.",
 ["dialog_mp_disconnected_internet_X360"] = "XBOX LİVE BAĞLANTIN KESİLDİ. BU OYUNUN ÇEVRİM İÇİ BÖLÜMLERİNE ERİŞMEK İÇİN BAĞLI OLMALISIN.",
@@ -3999,4 +3998,5 @@ return {
 ["hud_heist_hox1_2_hl"] = "SÜRÜCÜYE İŞARET VER",
 ["hud_heist_hox1_3"] = "KAMYON SİZİ POLİSLERDEN UZAKLAŞTIRIRKEN ONU POLİSLERDEN KORU.",
 ["hud_heist_hox1_3_hl"] = "KAMYONA EŞLİK ET",
+["hud_heist_hox1_4"] = "DEVAM EDEBİLMESİ İÇİN ZIRHLI KAMYONUN YOLUNU AÇ.",
 }

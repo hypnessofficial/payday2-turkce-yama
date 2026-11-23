@@ -27,6 +27,22 @@ local function load_chunks(files)
 end
 local upper_ids = load_chunks(upper.ids)
 local upper_values = load_chunks(upper.values)
+-- Some menus call utf8.to_upper directly instead of to_upper_text. Use the
+-- authored casing for known translations, and handle Turkish Unicode letters
+-- without changing ASCII i inside original English model and character names.
+if utf8 and type(utf8.to_upper) == 'function' and not utf8._consistent_turkish_upper then
+    local native_upper = utf8.to_upper
+    local letters = {['ç'] = 'Ç', ['ğ'] = 'Ğ', ['ı'] = 'I', ['ö'] = 'Ö', ['ş'] = 'Ş', ['ü'] = 'Ü'}
+    utf8.to_upper = function(text, ...)
+        if type(text) == 'string' then
+            local known = upper_values[text]
+            if known then return known end
+            for lower, upper in pairs(letters) do text = text:gsub(lower, upper) end
+        end
+        return native_upper(text, ...)
+    end
+    utf8._consistent_turkish_upper = true
+end
 log('[Consistent Turkish] Support tables ready; no startup JSON parsing.')
 
 local function install(loc)

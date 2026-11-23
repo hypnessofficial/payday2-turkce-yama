@@ -1,5 +1,4 @@
 return {
-["Bütün hastane cehenneme gitsin ama ikinizden birinde çakmak var mı?"] = "BÜTÜN HASTANE CEHENNEME GİTSİN AMA İKİNİZDEN BİRİNDE ÇAKMAK VAR MI?",
 ["Bütün ipuçları tamam olmalı. Artık nasıl açılacağını çözebilirsiniz."] = "BÜTÜN İPUÇLARI TAMAM OLMALI. ARTIK NASIL AÇILACAĞINI ÇÖZEBİLİRSİNİZ.",
 ["Bütün işleri Death Wish veya üzeri zorlukta tamamla."] = "BÜTÜN İŞLERİ DEATH WISH VEYA ÜZERİ ZORLUKTA TAMAMLA.",
 ["Bütün işleri Çok Zor veya üzeri zorlukta tamamla."] = "BÜTÜN İŞLERİ ÇOK ZOR VEYA ÜZERİ ZORLUKTA TAMAMLA.",
@@ -1761,6 +1760,7 @@ return {
 ["Dokuların ayrıntı düzeyini değiştir. Düşük ayarı performansı, Yüksek ayarı görüntü kalitesini artırır."] = "DOKULARIN AYRINTI DÜZEYİNİ DEĞİŞTİR. DÜŞÜK AYARI PERFORMANSI, YÜKSEK AYARI GÖRÜNTÜ KALİTESİNİ ARTIRIR.",
 ["Dokunmatik kontrolcüdeki dönme tuşlarına bastığında oyuncunun kaç derece döneceğini belirler."] = "DOKUNMATİK KONTROLCÜDEKİ DÖNME TUŞLARINA BASTIĞINDA OYUNCUNUN KAÇ DERECE DÖNECEĞİNİ BELİRLER.",
 ["Dokuz"] = "DOKUZ",
+["Dokuz Can"] = "DOKUZ CAN",
 ["Dokuz beş mesaisi... Geçinmek için ne berbat yol."] = "DOKUZ BEŞ MESAİSİ... GEÇİNMEK İÇİN NE BERBAT YOL.",
 ["Dokuz kaldı."] = "DOKUZ KALDI.",
 ["Dokuz numaralı iskeleye gelecek."] = "DOKUZ NUMARALI İSKELEYE GELECEK.",
@@ -1786,6 +1786,7 @@ return {
 ["Dolaplardan biri orada. Kilidini açmaya başlayın."] = "DOLAPLARDAN BİRİ ORADA. KİLİDİNİ AÇMAYA BAŞLAYIN.",
 ["Dolar Dolar Dolar, Işıl Işıl!"] = "DOLAR DOLAR DOLAR, IŞIL IŞIL!",
 ["Dolaşmayı bırakıp odaya girin."] = "DOLAŞMAYI BIRAKIP ODAYA GİRİN.",
+["Doldurma"] = "DOLDURMA",
 ["Doldurma döngüsünü başlatın, olur mu?"] = "DOLDURMA DÖNGÜSÜNÜ BAŞLATIN, OLUR MU?",
 ["Doldurma işlemi yeniden başlatılmalı."] = "DOLDURMA İŞLEMİ YENİDEN BAŞLATILMALI.",
 ["Doldurma işlemini yeniden başlatmalısınız."] = "DOLDURMA İŞLEMİNİ YENİDEN BAŞLATMALISINIZ.",
@@ -3998,5 +3999,4 @@ return {
 ["First World Bank'i soyma vakti, ekip."] = "FIRST WORLD BANK'İ SOYMA VAKTİ, EKİP.",
 ["First World Bank'te hisseniz varsa satın. Çünkü düşmanca bir devralma yaşayacaklar. Hadi başlayalım."] = "FIRST WORLD BANK'TE HİSSENİZ VARSA SATIN. ÇÜNKÜ DÜŞMANCA BİR DEVRALMA YAŞAYACAKLAR. HADİ BAŞLAYALIM.",
 ["First World Bank, bugün nasıl yardımcı olabilirim?"] = "FIRST WORLD BANK, BUGÜN NASIL YARDIMCI OLABİLİRİM?",
-["First World Bank, vergi mükelleflerinin parasıyla yüklü bir kurtarma paketi alan o kan emicilerden biriydi. O zamandan beri sağlam kâr ediyor. Bunu halk için yapalım."] = "FIRST WORLD BANK, VERGİ MÜKELLEFLERİNİN PARASIYLA YÜKLÜ BİR KURTARMA PAKETİ ALAN O KAN EMİCİLERDEN BİRİYDİ. O ZAMANDAN BERİ SAĞLAM KÂR EDİYOR. BUNU HALK İÇİN YAPALIM.",
 }

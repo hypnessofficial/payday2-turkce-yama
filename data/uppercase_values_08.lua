@@ -1,4 +1,6 @@
 return {
+["Sunucu odası geçitlerin üzerinde olmalı!"] = "SUNUCU ODASI GEÇİTLERİN ÜZERİNDE OLMALI!",
+["Sunucu odası gizli bir kapının arkasında. Arayın!"] = "SUNUCU ODASI GİZLİ BİR KAPININ ARKASINDA. ARAYIN!",
 ["Sunucu odası güvenlik kilidinde. Şu an erişemeyiz!"] = "SUNUCU ODASI GÜVENLİK KİLİDİNDE. ŞU AN ERİŞEMEYİZ!",
 ["Sunucu odası kilitlendi. Artık oraya giremeyiz!"] = "SUNUCU ODASI KİLİTLENDİ. ARTIK ORAYA GİREMEYİZ!",
 ["Sunucu odası oralarda olmalı."] = "SUNUCU ODASI ORALARDA OLMALI.",
@@ -3086,6 +3088,7 @@ return {
 ["Toplam"] = "TOPLAM",
 ["Toplam 1.000.000 $ Harcanabilir Para kazan."] = "TOPLAM 1.000.000 $ HARCANABİLİR PARA KAZAN.",
 ["Toplam 1.000.000 $ nakit harca."] = "TOPLAM 1.000.000 $ NAKİT HARCA.",
+["Toplam Mermi"] = "TOPLAM MERMİ",
 ["Toplam Mühimmat"] = "TOPLAM MÜHİMMAT",
 ["Toplam başarım"] = "TOPLAM BAŞARIM",
 ["Toplam bir milyar dolar nakit elde et. Bir. MİLYAR. Dolar."] = "TOPLAM BİR MİLYAR DOLAR NAKİT ELDE ET. BİR. MİLYAR. DOLAR.",
@@ -3996,7 +3999,4 @@ return {
 ["Vagon bu! Şimdi termiti üstüne yerleştirin. Şunu açacağız!"] = "VAGON BU! ŞİMDİ TERMİTİ ÜSTÜNE YERLEŞTİRİN. ŞUNU AÇACAĞIZ!",
 ["Vagon kendi kendine açılmayacak. O C4'ü suya daldırın!"] = "VAGON KENDİ KENDİNE AÇILMAYACAK. O C4'Ü SUYA DALDIRIN!",
 ["Vagonlar her yere dağılmış. İçlerinde ganimet olabilir. C4 de olabilir. Varsa alın. Gerekecek."] = "VAGONLAR HER YERE DAĞILMIŞ. İÇLERİNDE GANİMET OLABİLİR. C4 DE OLABİLİR. VARSA ALIN. GEREKECEK.",
-["Vagonlar için bir güvenlik anahtar kartı. İşleri hızlandırmalı."] = "VAGONLAR İÇİN BİR GÜVENLİK ANAHTAR KARTI. İŞLERİ HIZLANDIRMALI.",
-["Vagonlara girip o kalıpları alın!"] = "VAGONLARA GİRİP O KALIPLARI ALIN!",
-["Vagonlara girmeden önce trene bağlanan hareket sensörlerini halletmeliyiz. Gemma'nın bağlantısına göre tren sahasındaki bir kontrol konsoluna bağlılar."] = "VAGONLARA GİRMEDEN ÖNCE TRENE BAĞLANAN HAREKET SENSÖRLERİNİ HALLETMELİYİZ. GEMMA'NIN BAĞLANTISINA GÖRE TREN SAHASINDAKİ BİR KONTROL KONSOLUNA BAĞLILAR.",
 }

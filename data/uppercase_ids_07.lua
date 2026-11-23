@@ -1,5 +1,4 @@
 return {
-["loc_sah_94_02"] = "İŞTE, KASA DAİRESİ BU.",
 ["loc_sah_94_03"] = "TAM ORADA, GÖRÜNTÜDE... KASA DAİRESİ BU.",
 ["loc_sah_95_01"] = "NE YAPIYORSUNUZ? KALABALIK BÖYLE KONTROL EDİLMEZ!",
 ["loc_sah_95_02"] = "O SOSYETİK SERSEMLERİ KONTROL ALTINA ALMALISINIZ!",
@@ -3575,6 +3574,8 @@ return {
 ["menu_colorgrading_help"] = "OYUNUN RENK TONLARINI DEĞİŞTİR.",
 ["menu_combat_engineering"] = "MUHAREBE MÜHENDİSLİĞİ",
 ["menu_combat_engineering_desc"] = "TEMEL: ##$basic;##$NL;TUZAK MAYINININ PATLAMA YARIÇAPI ##$multibasic;## ARTAR.$NL;$NL;USTA: ##$pro;##$NL;TUZAK MAYINININ HASARI ##$multipro;## ARTAR.",
+["menu_combat_medic"] = "PARAMEDİK",
+["menu_combat_medic_beta"] = "PARAMEDİK",
 ["menu_combat_medic_beta_desc"] = "TEMEL: ##$basic;##$NL;BAŞKA BİR OYUNCUYU KALDIRIRKEN VE KALDIRDIKTAN SONRAKİ ##$multibasic2;## SANİYE BOYUNCA ##$multibasic;## HASAR AZALTMA KAZANIRSIN.$NL;$NL;USTA: ##$pro;##$NL;KALDIRDIĞIN EKİP ARKADAŞI ##$multipro;## DAHA FAZLA SAĞLIKLA AYAĞA KALKAR.",
 ["menu_combat_medic_desc"] = "TEMEL: ##$basic;##$NL;BİR EKİP ARKADAŞINI KALDIRDIKTAN SONRA ##$multibasic2;## SANİYELİĞİNE ##$multibasic;## HASAR BONUSU KAZANIRSIN.$NL;$NL;USTA: ##$pro;##$NL;KALDIRDIĞIN EKİP ARKADAŞI ##$multipro;## DAHA FAZLA SAĞLIKLA KALKAR.",
 ["menu_community_challenges_active_bonus"] = "TOPLAM DENEYİM BONUSU: %$bonus;",
@@ -3998,5 +3999,4 @@ return {
 ["menu_cs_rewards_suspended"] = "ÖDÜL KAZANIMI ASKIYA ALINDI",
 ["menu_cs_rewards_suspended_desc"] = "EV SAHİBİNİN SUÇ SERİSİ RÜTBESİ SENİNKİNE EŞİT VEYA DAHA YÜKSEK OLANA KADAR ÖDÜL KAZANAMAZSIN.",
 ["menu_cs_rooms"] = "ODALAR",
-["menu_cs_rooms_help_hover"] = "ÜZERİNE TIKLAYARAK ODAYI GELİŞTİR",
 }

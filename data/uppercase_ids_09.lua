@@ -1,4 +1,7 @@
 return {
+["mission_blow_wall_text"] = "SUNUCU ODASININ YANINDAKİ DUVARA C4 YERLEŞTİRİP KOMŞU BİNAYA GEÇMEK İÇİN BİR DELİK AÇ.",
+["mission_boat_aquire_drill"] = "BİR PERSONELDEN ANAHTARI AL VE ALT GÜVERTEDEKİ YÜK ODASINA GİZLENMİŞ MATKABI BUL.",
+["mission_boat_aquire_drill_hl"] = "MATKABI AL",
 ["mission_boat_destroy_security_equipment"] = "GÜVENLİK ODASINDAKİ TÜM GÜVENLİK EKİPMANLARINI YOK ET.",
 ["mission_boat_destroy_security_equipment_hl"] = "EKİPMANI YOK ET.",
 ["mission_boat_drill_bridge"] = "KÖPRÜÜSTÜ KAPISINI PATLATARAK KÖPRÜÜSTÜNE ERİŞ.",
@@ -3996,7 +3999,4 @@ return {
 ["pln_esc_02_to_departure"] = "KAÇIŞ ARACI İKİ DAKİKAYA GİDİYOR, SİZİNLE YA DA SİZSİZ.",
 ["pln_esc_03_to_arrival"] = "TAHMİNİ VARIŞ ÜÇ DAKİKA.",
 ["pln_esc_03_to_departure"] = "ALABİLDİĞİNİZ KADAR GANİMETİ GÜVENE ALIN. KAÇIŞ ARACI ÜÇ DAKİKA SONRA GİDİYOR.",
-["pln_esc_04_to_arrival"] = "DÖRT DAKİKA KALDI MİLLET.",
-["pln_esc_04_to_departure"] = "HIZLANIN! KAÇIŞ ARACI DÖRT DAKİKA SONRA GİDİYOR.",
-["pln_esc_05_to_arrival"] = "ARACINIZ YAKLAŞIK BEŞ DAKİKAYA ORADA.",
 }

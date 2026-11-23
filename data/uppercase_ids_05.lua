@@ -1,5 +1,4 @@
 return {
-["hud_heist_hox1_4"] = "DEVAM EDEBİLMESİ İÇİN ZIRHLI KAMYONUN YOLUNU AÇ.",
 ["hud_heist_hox1_4_hl"] = "KAMYONUN YOLUNU TEMİZLE",
 ["hud_heist_hox1_5"] = "GARAJ BİLETİ AL. BU, KAPIYI AÇACAK.",
 ["hud_heist_hox1_5_hl"] = "KAPIYI AÇ",
@@ -3999,4 +3998,5 @@ return {
 ["loc_brb_16_01"] = "O BRANDAYI KALDIRIN, TAMAM MI?",
 ["loc_brb_16_02"] = "ŞU BRANDADAN KURTULSANIZ MI?",
 ["loc_brb_16_03"] = "O BRANDAYI KALDIRMAK İYİ FİKİR OLABİLİR.",
+["loc_brb_17_01"] = "O KAPIYI GEÇMELİSİNİZ.",
 }

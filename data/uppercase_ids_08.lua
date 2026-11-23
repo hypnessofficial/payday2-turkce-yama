@@ -1,4 +1,5 @@
 return {
+["menu_cs_rooms_help_hover"] = "ÜZERİNE TIKLAYARAK ODAYI GELİŞTİR",
 ["menu_cs_rooms_help_hover_no_upgrade"] = "BU ODAYI DAHA FAZLA GELİŞTİREMEZSİN",
 ["menu_cs_rooms_help_hover_tier"] = "ODAYI $tier;. KADEMEYE GELİŞTİR",
 ["menu_cs_rooms_help_hover_tier_not_available"] = "BU GELİŞTİRME KULLANILAMIYOR",
@@ -1858,6 +1859,8 @@ return {
 ["menu_nh_xm22_01"] = "THE CRİMİNAL CAROL TATİL ETKİNLİĞİ OYNANABİLİR DURUMDA!",
 ["menu_nh_xmn_2019"] = "CHRİSTMAS UPDATE 2019 ARTIK YAYINDA!",
 ["menu_nh_xn21_01"] = "SÜLÜK AVANTAJ DESTESİ ŞİMDİ YAYINDA!",
+["menu_nine_lives"] = "DOKUZ CAN",
+["menu_nine_lives_beta"] = "DOKUZ CAN",
 ["menu_nine_lives_beta_desc"] = "TEMEL: ##$basic;##$NL;KAN KAYBI DURUMUNDAKİ SAĞLIK MİKTARIN ##$multibasic2;## ARTAR.$NL;$NL;USTA: ##$pro;##$NL;GÖZALTINA ALINMADAN ÖNCE ##$multipro2;## KEZ DAHA YERE DÜŞEBİLİRSİN.",
 ["menu_nine_lives_desc"] = "TEMEL: ##$basic;##$NL;GÖZALTINA ALINMADAN ÖNCE ##$multibasic;## KEZ DAHA YERE DÜŞÜP KAN KAYBETME HAKKI KAZANIRSIN.$NL;$NL;USTA: ##$pro;##$NL;YERE DÜŞTÜĞÜNDE HEMEN AYAĞA KALKMAK İÇİN ##$multipro;## ŞANSIN OLUR.",
 ["menu_no_sbz_account"] = "STARBREEZE NEBULA’YI BAĞLA",
@@ -3996,7 +3999,4 @@ return {
 ["mission_apply_drill"] = "MATKABI BAŞLAT (MATKAP ALANI.)",
 ["mission_apply_drill_text"] = "MATKABI KASA DAİRESİ ALANININ DIŞINDAKİ KAPIYA YERLEŞTİR.",
 ["mission_blow_wall"] = "DUVARA DELİK AÇ (YÖNETİM.)",
-["mission_blow_wall_text"] = "SUNUCU ODASININ YANINDAKİ DUVARA C4 YERLEŞTİRİP KOMŞU BİNAYA GEÇMEK İÇİN BİR DELİK AÇ.",
-["mission_boat_aquire_drill"] = "BİR PERSONELDEN ANAHTARI AL VE ALT GÜVERTEDEKİ YÜK ODASINA GİZLENMİŞ MATKABI BUL.",
-["mission_boat_aquire_drill_hl"] = "MATKABI AL",
 }

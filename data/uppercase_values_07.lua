@@ -1,4 +1,5 @@
 return {
+["Orada olduğunuzdan haberleri yok. Şimdi o telsize gidin."] = "ORADA OLDUĞUNUZDAN HABERLERİ YOK. ŞİMDİ O TELSİZE GİDİN.",
 ["Orada olduğunuzdan haberleri yok. Şimdi çıkın oradan."] = "ORADA OLDUĞUNUZDAN HABERLERİ YOK. ŞİMDİ ÇIKIN ORADAN.",
 ["Orada olduğunuzu bilen yok sanırım. Şimdi haberleşme frekansını alın."] = "ORADA OLDUĞUNUZU BİLEN YOK SANIRIM. ŞİMDİ HABERLEŞME FREKANSINI ALIN.",
 ["Orada olduğunuzu bilmiyorlar."] = "ORADA OLDUĞUNUZU BİLMİYORLAR.",
@@ -594,6 +595,7 @@ return {
 ["Paralı askerler size sert saldıracak! EMP'yi koruyun ekip!"] = "PARALI ASKERLER SİZE SERT SALDIRACAK! EMP'Yİ KORUYUN EKİP!",
 ["Paralı askerlerin tarama işlemini durdurmasına izin vermeyin!"] = "PARALI ASKERLERİN TARAMA İŞLEMİNİ DURDURMASINA İZİN VERMEYİN!",
 ["Param... şey, bir tür güven fonundan geliyor. Sizi de ortak ederdim... ama size güvenmiyorum."] = "PARAM... ŞEY, BİR TÜR GÜVEN FONUNDAN GELİYOR. SİZİ DE ORTAK EDERDİM... AMA SİZE GÜVENMİYORUM.",
+["Paramedik"] = "PARAMEDİK",
 ["Paramı Soyulmayan Bir Bankaya Taşımak İstiyorum"] = "PARAMI SOYULMAYAN BİR BANKAYA TAŞIMAK İSTİYORUM",
 ["Paramı alıp çıktım. Bir milyon kazandım amına koyayım. İki milyon! Daha da fazla!"] = "PARAMI ALIP ÇIKTIM. BİR MİLYON KAZANDIM AMINA KOYAYIM. İKİ MİLYON! DAHA DA FAZLA!",
 ["Paramı nasıl kazandığımı mı öğrenmek istiyorsunuz? Çok çalışarak. Bütün gece boyunca."] = "PARAMI NASIL KAZANDIĞIMI MI ÖĞRENMEK İSTİYORSUNUZ? ÇOK ÇALIŞARAK. BÜTÜN GECE BOYUNCA.",
@@ -3997,6 +3999,4 @@ return {
 ["Sunucu odası bu galiba. Aklınızda tutun, önce parayı bulmalısınız."] = "SUNUCU ODASI BU GALİBA. AKLINIZDA TUTUN, ÖNCE PARAYI BULMALISINIZ.",
 ["Sunucu odası burası. İçeri girip beni bağlayın."] = "SUNUCU ODASI BURASI. İÇERİ GİRİP BENİ BAĞLAYIN.",
 ["Sunucu odası burası. İçeri girip beni bilgisayara bağlayın."] = "SUNUCU ODASI BURASI. İÇERİ GİRİP BENİ BİLGİSAYARA BAĞLAYIN.",
-["Sunucu odası geçitlerin üzerinde olmalı!"] = "SUNUCU ODASI GEÇİTLERİN ÜZERİNDE OLMALI!",
-["Sunucu odası gizli bir kapının arkasında. Arayın!"] = "SUNUCU ODASI GİZLİ BİR KAPININ ARKASINDA. ARAYIN!",
 }

@@ -1,5 +1,4 @@
 return {
-["Bas Konuş"] = "BAS KONUŞ",
 ["Basarak Aç/Kapat"] = "BASARAK AÇ/KAPAT",
 ["Basilisk 3V Bomba Atarı"] = "BASILISK 3V BOMBA ATARI",
 ["Basit bir iş ama bu, kolay olacağı anlamına gelmiyor. Ormana gideceğiz. Yeri hatırlıyorsunuz. Orada Hector için birkaç iş yapmıştık. Neyse, mekânı kolaçan ettim, hâlâ sağlam. O yüzden oraya gidip yapabildiğimiz kadar metamfetamin pişireceğiz. İstediğiniz kadar kalabilirsiniz. Malzemeleriniz biterse uçakla daha fazlasını getirtirim. Kolay para olmalı."] = "BASİT BİR İŞ AMA BU, KOLAY OLACAĞI ANLAMINA GELMİYOR. ORMANA GİDECEĞİZ. YERİ HATIRLIYORSUNUZ. ORADA HECTOR İÇİN BİRKAÇ İŞ YAPMIŞTIK. NEYSE, MEKÂNI KOLAÇAN ETTİM, HÂLÂ SAĞLAM. O YÜZDEN ORAYA GİDİP YAPABİLDİĞİMİZ KADAR METAMFETAMİN PİŞİRECEĞİZ. İSTEDİĞİNİZ KADAR KALABİLİRSİNİZ. MALZEMELERİNİZ BİTERSE UÇAKLA DAHA FAZLASINI GETİRTİRİM. KOLAY PARA OLMALI.",
@@ -3999,4 +3998,5 @@ return {
 ["Bütün gün sıcak bir Bunsen beki ve kimyasalların başında köle gibi çalışırsan sonunda eline ne geçer? Metamfetamin... Elinde metamfetamin olur."] = "BÜTÜN GÜN SICAK BİR BUNSEN BEKİ VE KİMYASALLARIN BAŞINDA KÖLE GİBİ ÇALIŞIRSAN SONUNDA ELİNE NE GEÇER? METAMFETAMİN... ELİNDE METAMFETAMİN OLUR.",
 ["Bütün günahları küle döndü! Şimdi dostumuzu bulalım, hücre bloğunda olmalı."] = "BÜTÜN GÜNAHLARI KÜLE DÖNDÜ! ŞİMDİ DOSTUMUZU BULALIM, HÜCRE BLOĞUNDA OLMALI.",
 ["Bütün güvenlikçiler dışarı! Biri sandaletle çorap giymiş! Dehşet verici!"] = "BÜTÜN GÜVENLİKÇİLER DIŞARI! BİRİ SANDALETLE ÇORAP GİYMİŞ! DEHŞET VERİCİ!",
+["Bütün hastane cehenneme gitsin ama ikinizden birinde çakmak var mı?"] = "BÜTÜN HASTANE CEHENNEME GİTSİN AMA İKİNİZDEN BİRİNDE ÇAKMAK VAR MI?",
 }

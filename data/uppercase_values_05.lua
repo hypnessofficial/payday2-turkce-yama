@@ -1,4 +1,6 @@
 return {
+["Hey, işte orada. Bahçe alanında gibi."] = "HEY, İŞTE ORADA. BAHÇE ALANINDA GİBİ.",
+["Hey, işte orada. Havuzların yanında gibi."] = "HEY, İŞTE ORADA. HAVUZLARIN YANINDA GİBİ.",
 ["Hey, işte orada. Merdivenlerin oralarda gibi."] = "HEY, İŞTE ORADA. MERDİVENLERİN ORALARDA GİBİ.",
 ["Hey, işte orada. Rıhtımın yanında gibi."] = "HEY, İŞTE ORADA. RIHTIMIN YANINDA GİBİ.",
 ["Hey, işçi olabilirler ama aptal ve kör değiller. Göze batmayın."] = "HEY, İŞÇİ OLABİLİRLER AMA APTAL VE KÖR DEĞİLLER. GÖZE BATMAYIN.",
@@ -3997,6 +3999,4 @@ return {
 ["Lobiye Dön"] = "LOBİYE DÖN",
 ["Lobiye devam et"] = "LOBİYE DEVAM ET",
 ["Lobiyi geç"] = "LOBİYİ GEÇ",
-["Locke & Load Event sitesinin 10. gününde bulunan bilmeceyi çöz."] = "LOCKE & LOAD EVENT SİTESİNİN 10. GÜNÜNDE BULUNAN BİLMECEYİ ÇÖZ.",
-["Locke & Load Event sitesinin 2. gününde bulunan bilmeceyi çöz."] = "LOCKE & LOAD EVENT SİTESİNİN 2. GÜNÜNDE BULUNAN BİLMECEYİ ÇÖZ.",
 }

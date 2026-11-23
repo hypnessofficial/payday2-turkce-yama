@@ -1,5 +1,4 @@
 return {
-["loc_brb_17_01"] = "O KAPIYI GEÇMELİSİNİZ.",
 ["loc_brb_17_02"] = "O KAPIDA FAZLA OYALANMAYIN, DOSTLAR.",
 ["loc_brb_17_03"] = "O KAPIYI KIRIP AÇMALISINIZ DOSTLARIM.",
 ["loc_brb_17_04"] = "KAPIYI UNUTMAYIN, TAMAM MI?",
@@ -3999,4 +3998,5 @@ return {
 ["loc_sah_93_02"] = "HELİKOPTER GİTMEYE HAZIR!",
 ["loc_sah_93_03"] = "HERKES HELİKOPTERE BİNMELİ!",
 ["loc_sah_94_01"] = "BU KESİN KASA DAİRESİ.",
+["loc_sah_94_02"] = "İŞTE, KASA DAİRESİ BU.",
 }

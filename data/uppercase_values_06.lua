@@ -1,4 +1,6 @@
 return {
+["Locke & Load Event sitesinin 10. gününde bulunan bilmeceyi çöz."] = "LOCKE & LOAD EVENT SİTESİNİN 10. GÜNÜNDE BULUNAN BİLMECEYİ ÇÖZ.",
+["Locke & Load Event sitesinin 2. gününde bulunan bilmeceyi çöz."] = "LOCKE & LOAD EVENT SİTESİNİN 2. GÜNÜNDE BULUNAN BİLMECEYİ ÇÖZ.",
 ["Locke & Load Event sitesinin 4. gününde bulunan bilmeceyi çöz."] = "LOCKE & LOAD EVENT SİTESİNİN 4. GÜNÜNDE BULUNAN BİLMECEYİ ÇÖZ.",
 ["Locke & Load Event sitesinin 6. gününde bulunan bilmeceyi çöz."] = "LOCKE & LOAD EVENT SİTESİNİN 6. GÜNÜNDE BULUNAN BİLMECEYİ ÇÖZ.",
 ["Locke & Load Event sitesinin 8. gününde bulunan bilmeceyi çöz."] = "LOCKE & LOAD EVENT SİTESİNİN 8. GÜNÜNDE BULUNAN BİLMECEYİ ÇÖZ.",
@@ -1279,7 +1281,6 @@ return {
 ["Modern sentetik kumaşlardan yapılmış, hava geçirgenliği ve nem uzaklaştırma özelliği yüksek, ince dolgulu ve kullanışlı bir motosiklet eldiveni."] = "MODERN SENTETİK KUMAŞLARDAN YAPILMIŞ, HAVA GEÇİRGENLİĞİ VE NEM UZAKLAŞTIRMA ÖZELLİĞİ YÜKSEK, İNCE DOLGULU VE KULLANIŞLI BİR MOTOSİKLET ELDİVENİ.",
 ["Modern, dinamik, kalabalıkları coşturan bir şey. Zarif, akıcı, tepeden tırnağa şık. Hem Le Castle Vania’nın müziği hem de maskesi."] = "MODERN, DİNAMİK, KALABALIKLARI COŞTURAN BİR ŞEY. ZARİF, AKICI, TEPEDEN TIRNAĞA ŞIK. HEM LE CASTLE VANIA’NIN MÜZİĞİ HEM DE MASKESİ.",
 ["Modernleştirilmiş El Kundağı"] = "MODERNLEŞTİRİLMİŞ EL KUNDAĞI",
-["Modifikasyon"] = "MODİFİKASYON",
 ["Modifikasyon türünü seç"] = "MODİFİKASYON TÜRÜNÜ SEÇ",
 ["Modifikasyon Önizlemesi"] = "MODİFİKASYON ÖNİZLEMESİ",
 ["Modifikasyon üret"] = "MODİFİKASYON ÜRET",
@@ -3998,5 +3999,4 @@ return {
 ["Orada olduğunu bilmezlerse polisi de aramazlar. Böylece oradan defolup gitmek çok daha kolay olur."] = "ORADA OLDUĞUNU BİLMEZLERSE POLİSİ DE ARAMAZLAR. BÖYLECE ORADAN DEFOLUP GİTMEK ÇOK DAHA KOLAY OLUR.",
 ["Orada olduğunuzdan haberleri yok. O anahtar kartlarını aramaya devam edin."] = "ORADA OLDUĞUNUZDAN HABERLERİ YOK. O ANAHTAR KARTLARINI ARAMAYA DEVAM EDİN.",
 ["Orada olduğunuzdan haberleri yok. Şimdi o anahtar kartlarını aramaya devam edin."] = "ORADA OLDUĞUNUZDAN HABERLERİ YOK. ŞİMDİ O ANAHTAR KARTLARINI ARAMAYA DEVAM EDİN.",
-["Orada olduğunuzdan haberleri yok. Şimdi o telsize gidin."] = "ORADA OLDUĞUNUZDAN HABERLERİ YOK. ŞİMDİ O TELSİZE GİDİN.",
 }
