@@ -1,6 +1,3 @@
--- This file is loaded by BeardLib from assets/mod_overrides. No second BLT mod.
--- Current game archives include hash-only IDs which cannot be addressed by a
--- normal localization JSON file. Resolve those IDs to registered JSON aliases.
 local root = ModPath
 log('[Consistent Turkish] Loading localization support tables (native Lua).')
 local function load_data(name)
@@ -12,8 +9,6 @@ local function load_data(name)
     log('[Consistent Turkish] Could not load ' .. name .. ': ' .. tostring(data))
     return {}
 end
--- SuperBLT's legacy JSON parser repeatedly scans/copies the full input. Native
--- Lua data tables avoid stalling startup on the multi-megabyte text catalogs.
 local aliases = load_data('hash_aliases')
 local upper = load_data('uppercase')
 local function load_chunks(files)
@@ -27,9 +22,6 @@ local function load_chunks(files)
 end
 local upper_ids = load_chunks(upper.ids)
 local upper_values = load_chunks(upper.values)
--- Some menus call utf8.to_upper directly instead of to_upper_text. Use the
--- authored casing for known translations, and handle Turkish Unicode letters
--- without changing ASCII i inside original English model and character names.
 if utf8 and type(utf8.to_upper) == 'function' and not utf8._consistent_turkish_upper then
     local native_upper = utf8.to_upper
     local letters = {['ç'] = 'Ç', ['ğ'] = 'Ğ', ['ı'] = 'I', ['ö'] = 'Ö', ['ş'] = 'Ş', ['ü'] = 'Ü'}
@@ -70,7 +62,6 @@ local function install(loc)
     function cls:text(id, ...)
         local selected = resolve(self, id)
         local text = original_text(self, selected, ...)
-        -- Keep this installation's casing_mode_plus carry interactions working.
         if type(text) == 'string' and type(id) == 'string' and id:find('^hud_int_')
             and self._custom_localizations and self._custom_localizations[selected]
             and _G.PD25 and PD25.carry_selecting and managers and managers.player
@@ -83,8 +74,6 @@ local function install(loc)
     function cls:exists(id, ...)
         return original_exists(self, resolve(self, id), ...)
     end
-    -- Uppercase authored literals before macro substitution: player/weapon names
-    -- use their own casing, while already-localized macro values use Turkish.
     local original_upper = cls.to_upper_text
     function cls:to_upper_text(id, macros)
         local selected = resolve(self, id)

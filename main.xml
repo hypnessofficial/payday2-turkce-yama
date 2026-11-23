@@ -1,5 +1,5 @@
-<mod name="Consistent Turkish" author="Local Turkish Localization" version="0.2.3" priority="1000">
-  <AssetUpdates provider="github" id="hypnessofficial/payday2-turkce-yama" branch="main" use_local_dir="true" use_local_path="true"/>
+<mod name="Consistent Turkish" author="Hypness" version="0.2.4" priority="1000">
+  <AssetUpdates provider="github" id="hypnessofficial/payday2-turkce-yama" branch="main" version="0.2.4" version_file="$ModPath$version.txt" use_local_dir="true" use_local_path="true"/>
   <Localization directory="loc" default_language="english" priority="2">
     <group language="english">
       <loc file="atmospheric_text.lua"/>
@@ -19,5 +19,6 @@
   </Localization>
   <Classes directory="lua" priority="1">
     <class file="runtime.lua"/>
+    <class file="beardlib_card.lua"/>
   </Classes>
 </mod>
